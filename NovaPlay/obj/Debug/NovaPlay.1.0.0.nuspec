@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NovaPlay</id>
+    <version>1.0.0</version>
+    <authors>Ragnok123</authors>
+    <owners>Ragnok123</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <copyright>Ragnok123</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="MiNET" version="1.0.1934" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.0.13" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\bin\Debug\netcoreapp2.1\NovaPlay.dll" target="lib\netcoreapp2.1\NovaPlay.dll" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\bin\Debug\netcoreapp2.1\NovaPlay.deps.json
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\bin\Debug\netcoreapp2.1\NovaPlay.dll
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\bin\Debug\netcoreapp2.1\NovaPlay.pdb
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\obj\Debug\netcoreapp2.1\NovaPlay.csprojAssemblyReference.cache
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\obj\Debug\netcoreapp2.1\NovaPlay.csproj.CoreCompileInputs.cache
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\obj\Debug\netcoreapp2.1\NovaPlay.AssemblyInfoInputs.cache
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\obj\Debug\netcoreapp2.1\NovaPlay.AssemblyInfo.cs
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\obj\Debug\netcoreapp2.1\NovaPlay.dll
+C:\Users\gebab\Desktop\WallServer\NovaPlay\NovaPlay\obj\Debug\netcoreapp2.1\NovaPlay.pdb
